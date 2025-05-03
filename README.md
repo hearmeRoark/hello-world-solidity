@@ -28,5 +28,5 @@ contract HelloWorld {
 ## 🌍 Deployed Contract
 
 - **Network:** Sepolia Testnet  
-- **Contract Address:** [`0xBf700844e4E87E0B405A908E713fE444F438e3A0`](https://etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
-- **Verified on Etherscan:** ✅ [View Source](https://etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
+- **Contract Address:** [`0xBf700844e4E87E0B405A908E713fE444F438e3A0`](https://sepolia.etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
+- **Verified on Etherscan:** ✅ [View Source](https://sepolia.etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
