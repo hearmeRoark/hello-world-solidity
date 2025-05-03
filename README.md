@@ -1,6 +1,6 @@
 # Hello World - Solidity Smart Contract
 
-This is my first deployed smart contract written in Solidity and deployed to the Ethereum Sepolia testnet using Remix and MetaMask.
+This is my first deployed smart contract written in Solidity and deployed to the Ethereum Mainnet testnet using Remix and MetaMask.
 
 ## 🧠 What It Does
 
@@ -12,7 +12,7 @@ This contract stores a single public message:
 - Solidity `^0.8.0`
 - Remix IDE
 - MetaMask
-- Sepolia Testnet
+- Ethereum Mainnet
 - Etherscan
 
 ## 📄 Contract Code
@@ -27,6 +27,6 @@ contract HelloWorld {
 
 ## 🌍 Deployed Contract
 
-- **Network:** Sepolia Testnet  
+- **Network:** Ethereum Mainnet  
 - **Contract Address:** [`0xBf700844e4E87E0B405A908E713fE444F438e3A0`](https://etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
 - **Verified on Etherscan:** ✅ [View Source](https://etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
